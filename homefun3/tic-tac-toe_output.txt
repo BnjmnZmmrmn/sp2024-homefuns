@@ -1,0 +1,8 @@
+~ python solver.py "---------"
+---
+---: tie
+---
+Losses: 1574 (942 primitives)
+Wins: 2836 (0 primitives)
+Ties: 1068 (16 primitives)
+Total: 5478 (958 primitives)

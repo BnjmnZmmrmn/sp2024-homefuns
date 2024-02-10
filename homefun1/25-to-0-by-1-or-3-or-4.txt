@@ -1,0 +1,27 @@
+*** command line calls are omitted for brevity ***
+25: win
+24: win
+23: lose
+22: win
+21: lose
+20: win
+19: win
+18: win
+17: win
+16: lose
+15: win
+14: lose
+13: win
+12: win
+11: win
+10: win
+9: lose
+8: win
+7: lose
+6: win
+5: win
+4: win
+3: win
+2: lose
+1: win
+0: lose
